@@ -13,7 +13,7 @@ module.exports = {
 
   // open graph metadata (optional)
   description: '',
-  socialImageTitle: '',
+  socialImageTitle: 'Chelsea here！',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
@@ -23,7 +23,7 @@ module.exports = {
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon: null,
+  defaultPageIcon: 📕,
   defaultPageCover: null,
   defaultPageCoverPosition: 0.5,
 
