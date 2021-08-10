@@ -12,7 +12,7 @@ module.exports = {
   author: 'manchuan',
 
   // open graph metadata (optional)
-  description: '',
+  description: '欢迎你来',
   socialImageTitle: 'Chelsea here！',
   socialImageSubtitle: 'Hello World! 👋',
 
